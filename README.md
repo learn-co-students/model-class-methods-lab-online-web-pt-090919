@@ -1,4 +1,4 @@
-# Optimal Queries using Active Record
+lea# Optimal Queries using Active Record
 
 ## Learning Goals
 
